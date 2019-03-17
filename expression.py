@@ -1,7 +1,7 @@
 import sys
 
-length = int(input("Введите значение  стороны: "))
-breadth = int(input("Введите значение второй стороны: "))
+length = int(input("Введите длину: "))
+breadth = int(input("Введите ширину: "))
 
 
 redeemerOrSquare = input("Что вы хотите найти Площадь или Пириметр?(S/P): ")
