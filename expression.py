@@ -6,7 +6,7 @@ breadth = int(input("Введите ширину: "))
 
 redeemerOrSquare = input("Что вы хотите найти Площадь или Пириметр?(S/P): ")
 
-if redeemerOrSquare == "S" and "s":
+if redeemerOrSquare == "S" or "s":
     area = length * breadth
     print("Площадь равна: ", area)
 
